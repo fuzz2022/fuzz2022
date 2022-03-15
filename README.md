@@ -16,7 +16,7 @@ https://t.me/cffuzz
 
 
 
-CFfuzz一句话测试工具说明
+		CFfuzz一句话测试工具说明
 
 	   	1 :  兼容传统chopper eval 一句话,且支持多达几十种chopper Eval连接方式,大大加强了传统一句话的兼容能力.也可以自己添加模板,操作简单,只要有简单的代码基础(vb)自己可以写出N多.
 		
